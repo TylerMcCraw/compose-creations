@@ -32,6 +32,7 @@
 - [Cosmic Compose](https://github.com/thelumiereguy/CosmicCompose) - A mini Solar System built with Canvas and Jetpack Compose
 - [Shader Showcase](https://github.com/thelumiereguy/ShaderShowcaseApp) - Varioius demonstrations of OpenGL-based Shaders
 - [veneer](https://github.com/Shivamdhuria/veneer) - Display simulated vineer on views using the accelerometer
+- [shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Animated shimmer effect
 - [heart-switch](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch
 - [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - Swipeable list items
 - [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - Buttons that collapse to show progress
@@ -39,6 +40,11 @@
 - [PaletteCompose](https://github.com/unaisulhadi/PaletteCompose) - A demonstration of using the palette APIs together with Coil
 - [Orbitary](https://github.com/skydoves/Orbitary) - A library for creating transformations, movement, and shared element animations
 - [sketchbook-compose](https://github.com/GetStream/sketchbook-compose) - A library for drawing paths and images on a canvas
+- [Compose Charts](https://github.com/tehras/charts) - Draw and animate charts
+- [Compose-Ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Rating bar
+- [InfoBar Compose](https://github.com/radusalagean/info-bar-compose) - A Snackbar-like InfoBar without the need for Scaffold, SnackbarHost / SnackbarHostState
+- [Custom compose sliders](https://github.com/krottv/compose-sliders) - Highly customizable sliders and tracks
+- [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose) - Animated dark mode toggle button
 
 ### Video-only demonstrations
 - [Parallax effect using the accelerometer](https://twitter.com/IAmPraveenSP/status/1499811542077870082) by [@IAmPraveenSP](https://twitter.com/IAmPraveenSP)
