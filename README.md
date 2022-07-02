@@ -19,11 +19,14 @@
   <a href="https://github.com/TylerMcCraw/compose-creations/issues/new">Report issue</a>
 </p>
 
+### Google Official Samples 
+- [compose-samples](https://github.com/android/compose-samples) - Collection of Jetpack Compose Samples
+- [MotionCompose](https://github.com/android/animation-samples/tree/main/MotionCompose) - Various demonstrations of animations
+
 
 ### Projects & Gists
 - [Konfetti](https://github.com/DanielMartinus/Konfetti) - Add confetti anywhere with Compose 🎊
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - An experimentation of Neumorphism UI
-- [MotionCompose](https://github.com/android/animation-samples/tree/main/MotionCompose) - Various demonstrations of animations
 - [Jet Composer](https://github.com/prafullmishra/JetComposer) - Various demonstrations of UIs and animations
 - [Jetpack Compose animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Various examples of animations
 - [Dropdown](https://github.com/AndroidPoet/Dropdown) - Animated menu dropdown
@@ -45,6 +48,7 @@
 - [InfoBar Compose](https://github.com/radusalagean/info-bar-compose) - A Snackbar-like InfoBar without the need for Scaffold, SnackbarHost / SnackbarHostState
 - [Custom compose sliders](https://github.com/krottv/compose-sliders) - Highly customizable sliders and tracks
 - [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose) - Animated dark mode toggle button
+
 
 ### Video-only demonstrations
 - [Parallax effect using the accelerometer](https://twitter.com/IAmPraveenSP/status/1499811542077870082) by [@IAmPraveenSP](https://twitter.com/IAmPraveenSP)
