@@ -20,8 +20,26 @@
 </p>
 
 
-### Plain fun
+### Projects & Gists
 - [Konfetti](https://github.com/DanielMartinus/Konfetti) - Add confetti anywhere with Compose 🎊
-
-### Experiments 🧑🏻‍🔬 🔬
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - An experimentation of Neumorphism UI
+- [MotionCompose](https://github.com/android/animation-samples/tree/main/MotionCompose) - Various demonstrations of animations
+- [Jet Composer](https://github.com/prafullmishra/JetComposer) - Various demonstrations of UIs and animations
+- [Jetpack Compose animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Various examples of animations
+- [Dropdown](https://github.com/AndroidPoet/Dropdown) - Animated menu dropdown
+- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) - A Chrome T-Rex game
+- [compose-fractal-nav](https://github.com/zach-klippenstein/compose-fractal-nav) - Fractal/recursive navigation system
+- [Cosmic Compose](https://github.com/thelumiereguy/CosmicCompose) - A mini Solar System built with Canvas and Jetpack Compose
+- [Shader Showcase](https://github.com/thelumiereguy/ShaderShowcaseApp) - Varioius demonstrations of OpenGL-based Shaders
+- [veneer](https://github.com/Shivamdhuria/veneer) - Display simulated vineer on views using the accelerometer
+- [heart-switch](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch
+- [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - Swipeable list items
+- [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - Buttons that collapse to show progress
+- [ComposeClock](https://github.com/adibfara/ComposeClock) - Animated particle clock
+- [PaletteCompose](https://github.com/unaisulhadi/PaletteCompose) - A demonstration of using the palette APIs together with Coil
+- [Orbitary](https://github.com/skydoves/Orbitary) - A library for creating transformations, movement, and shared element animations
+- [sketchbook-compose](https://github.com/GetStream/sketchbook-compose) - A library for drawing paths and images on a canvas
+
+### Video-only demonstrations
+- [Parallax effect using the accelerometer](https://twitter.com/IAmPraveenSP/status/1499811542077870082) by [@IAmPraveenSP](https://twitter.com/IAmPraveenSP)
+- [Snapping screenshots with edit features](https://twitter.com/Snokbert/status/1540992925148102657) by [@Snokbert](https://twitter.com/Snokbert)
