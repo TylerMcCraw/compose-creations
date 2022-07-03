@@ -27,6 +27,7 @@
 ### Projects & Gists
 - [Konfetti](https://github.com/DanielMartinus/Konfetti) - Add confetti anywhere with Compose 🎊
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - An experimentation of Neumorphism UI
+- [tivi](https://github.com/chrisbanes/tivi) - Real world example project that showcases Compose and many best practices
 - [Jet Composer](https://github.com/prafullmishra/JetComposer) - Various demonstrations of UIs and animations
 - [Jetpack Compose animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Various examples of animations
 - [Dropdown](https://github.com/AndroidPoet/Dropdown) - Animated menu dropdown
@@ -52,6 +53,8 @@
 - [Doom Compose](https://github.com/ditn/Doom-Compose) - Doom fire animation
 - [Flippable](https://github.com/wajahatkarim3/Flippable) - A customizable flip animation to flip your Composable views
 - [AnagramAnimation](https://github.com/atommarvel/AnagramAnimation) - Animating characters in anagrams
+- [Radix-Calculator](https://github.com/maxotuteye/Radix-Calculator) - Radix calculator build with Compose
+- [androidx-colorpicker](https://github.com/syslogic/androidx-colorpicker) - Color pickers (one built with Views + one built with Compose)
 
 
 ### Video-only demonstrations
