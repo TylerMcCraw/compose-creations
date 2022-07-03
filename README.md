@@ -48,6 +48,9 @@
 - [InfoBar Compose](https://github.com/radusalagean/info-bar-compose) - A Snackbar-like InfoBar without the need for Scaffold, SnackbarHost / SnackbarHostState
 - [Custom compose sliders](https://github.com/krottv/compose-sliders) - Highly customizable sliders and tracks
 - [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose) - Animated dark mode toggle button
+- [compose-games](https://github.com/emitchel/compose-games) - Wordle and Snake games built with Compose
+- [Doom Compose](https://github.com/ditn/Doom-Compose) - Doom fire animation
+- [Flippable](https://github.com/wajahatkarim3/Flippable) - A customizable flip animation to flip your Composable views
 
 
 ### Video-only demonstrations
