@@ -28,6 +28,7 @@
 - [Konfetti](https://github.com/DanielMartinus/Konfetti) - Add confetti anywhere with Compose 🎊
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - An experimentation of Neumorphism UI
 - [tivi](https://github.com/chrisbanes/tivi) - Real world example project that showcases Compose and many best practices
+- [gamedge](https://github.com/mars885/gamedge) - Video game and video game news browsing application built with Compose and is being updated with best practices
 - [Jet Composer](https://github.com/prafullmishra/JetComposer) - Various demonstrations of UIs and animations
 - [Jetpack Compose animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Various examples of animations
 - [Dropdown](https://github.com/AndroidPoet/Dropdown) - Animated menu dropdown
