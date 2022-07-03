@@ -53,8 +53,9 @@
 - [Doom Compose](https://github.com/ditn/Doom-Compose) - Doom fire animation
 - [Flippable](https://github.com/wajahatkarim3/Flippable) - A customizable flip animation to flip your Composable views
 - [AnagramAnimation](https://github.com/atommarvel/AnagramAnimation) - Animating characters in anagrams
-- [Radix-Calculator](https://github.com/maxotuteye/Radix-Calculator) - Radix calculator build with Compose
+- [Radix-Calculator](https://github.com/maxotuteye/Radix-Calculator) - Radix calculator built with Compose
 - [androidx-colorpicker](https://github.com/syslogic/androidx-colorpicker) - Color pickers (one built with Views + one built with Compose)
+- [breakout-compose](https://github.com/skrilltrax/breakout-compose) - Breakout game built with Compose
 
 
 ### Video-only demonstrations
