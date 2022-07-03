@@ -51,6 +51,7 @@
 - [compose-games](https://github.com/emitchel/compose-games) - Wordle and Snake games built with Compose
 - [Doom Compose](https://github.com/ditn/Doom-Compose) - Doom fire animation
 - [Flippable](https://github.com/wajahatkarim3/Flippable) - A customizable flip animation to flip your Composable views
+- [AnagramAnimation](https://github.com/atommarvel/AnagramAnimation) - Animating characters in anagrams
 
 
 ### Video-only demonstrations
