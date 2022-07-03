@@ -55,5 +55,5 @@
 
 ### Video-only demonstrations
 - [Parallax effect using the accelerometer](https://twitter.com/IAmPraveenSP/status/1499811542077870082) by [@IAmPraveenSP](https://twitter.com/IAmPraveenSP)
-- [Parallax effect using the accelerometer](https://twitter.com/_SUR4J_/status/1529777425785073665) by [@_SUR4J_](https://twitter.com/_SUR4J_)
+- [Parallax effect using the accelerometer](https://twitter.com/_SUR4J_/status/1529777425785073665) by [@\_SUR4J\_](https://twitter.com/_SUR4J_)
 - [Snapping screenshots with edit features](https://twitter.com/Snokbert/status/1540992925148102657) by [@Snokbert](https://twitter.com/Snokbert)
