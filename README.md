@@ -58,6 +58,7 @@
 - [androidx-colorpicker](https://github.com/syslogic/androidx-colorpicker) - Color pickers (one built with Views + one built with Compose)
 - [breakout-compose](https://github.com/skrilltrax/breakout-compose) - Breakout game built with Compose
 - [Extended Spans](https://github.com/saket/ExtendedSpans) - Exploration of custom spans
+- [Page Curl](https://github.com/oleksandrbalan/pagecurl) - Page turning animations
 
 
 ### Video-only demonstrations
